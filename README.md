@@ -1,4 +1,4 @@
-# Project: Advanced Building Blocks 
+# Project: Advanced Building Blocks - Enumerables
 
 This is the first project of the Main Ruby curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
 * The goal was learn about sorting algorithims and blocks.
@@ -9,4 +9,3 @@ This is the first project of the Main Ruby curriculum at [Microverse](https://ww
 #### Authors
 
 * [@eapenzacharias](https://github.com/eapenzacharias)
-* [@codingAngarita](https://github.com/codingAngarita)
