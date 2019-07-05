@@ -8,5 +8,5 @@ This is the first project of the Main Ruby curriculum at [Microverse](https://ww
 
 #### Authors
 
-* [@eapenzacharias](httpshttps://github.com/eapenzachariasgithub.com/lilleonz)
+* [@eapenzacharias](https://github.com/eapenzacharias)
 * [@codingAngarita](https://github.com/codingAngarita)
